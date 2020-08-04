@@ -12,3 +12,4 @@ Sou um Programador Fron-End :computer:
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
  <br/> :computer: &nbsp; Minha stack: ReactJS, React Native & Typescript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games LoL, FIFA, NBA2K e fazer atividades Físicas
+<br/> :rocket: &nbsp; Linkedin: https://www.linkedin.com/in/marcos-paulo-gomes-de-souza-694960192/
