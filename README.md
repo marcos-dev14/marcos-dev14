@@ -4,7 +4,7 @@
 # Marcos Paulo
 
 ## Olá pessoal :stuck_out_tongue_winking_eye: :v:
-Sou apaixonado por criação de sites e resolvendo problemas, com a Programação.
+Sou apaixonado por criação de sites, aplicativos e resolver problemas na Programação.
 <br/>
 Sou um Programador Fron-End :computer:
 
