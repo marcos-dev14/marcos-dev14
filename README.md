@@ -12,4 +12,4 @@ Curso: Técnico em Informática - Instituto Federal do Norte de Minas Gerais - I
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
  <br/> :computer: &nbsp; Estudando: ReactJS, React Native & Typescript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, Games como LoL, FIFA, NBA2K e fazer atividades Físicas
-<br/> :rocket: &nbsp; Linkedin: https://www.linkedin.com/in/marcos-paulo-gomes-de-souza-694960192/
+<br/> :rocket: &nbsp; Linkedin: https://www.linkedin.com/in/marcos-paulo-694960192/
