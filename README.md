@@ -1,7 +1,7 @@
 
 # Marcos Paulo
 
-## Olá pessoal :stuck_out_tongue_winking_eye: :v:
+## Olá Pessoal :stuck_out_tongue_winking_eye: :v:
 Sou apaixonado por criação de sites, aplicativos e resolver problemas com a Programação.
 <br/>
 Sou um Programador Front-End :computer:
@@ -10,6 +10,6 @@ Curso: Técnico em Informática - Instituto Federal do Norte de Minas Gerais - I
 
 
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
- <br/> :computer: &nbsp; Estudando: ReactJS, React Native & Typescript
+ <br/> :computer: &nbsp; Estudando: ReactJS, React Native, Typescript & Vue.js
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, Games como LoL, FIFA, NBA2K e fazer atividades Físicas
 <br/> :rocket: &nbsp; Linkedin: https://www.linkedin.com/in/marcos-paulo-694960192/
