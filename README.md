@@ -1,7 +1,14 @@
 
 # Marcos Paulo
 
-Sou apaixonado por criação de sites, aplicativos e jogos, dês do ano de 2018 dei meus primeiros passos na programação com a linguagem C++ quando eu iniciei o curso técnico de informática, também tive a base de HTML e CSS e foi onde me apaixonei na criação de sites. Comecei estudar Javascript, Typescript  e acabei conhecendo os framework Node JS, React JS e React Native, foi onde estudei muito e tive algumas experiências com essas tecnologias no mercado de trabalho.
+ Atuo como desenvolvedor web desde 2021, criando soluções para E-commerce, Landing Pages 
+e blogs. Tenho experiência em desenvolvimento mobile com React Native (Expo), incluindo a 
+publicação de aplicativos nas lojas da Apple e Google, utilizando EAS Build e AppCenter com 
+configurações mais nativas.  Além disso, em 2022, ampliei minha atuação para o back-end, 
+adquirindo expertise com NestJS e contribuindo para a criação de painéis administrativos e 
+dashboards eficientes e intuitivos. Também possuo experiência na coordenação de uma 
+pequena equipe de freelancers, liderando o desenvolvimento de componentes para um sistema 
+de E-commerce.
 
 <br/>
 Curso: Técnico em Informática - Instituto Federal do Norte de Minas Gerais - IFNMG (Campus Pirapora) :computer:
