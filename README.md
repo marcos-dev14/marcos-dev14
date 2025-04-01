@@ -18,4 +18,4 @@ Curso: Técnico em Informática - Instituto Federal do Norte de Minas Gerais - I
  <br/> :computer: &nbsp; Stacks: React JS, React Native, Typescript & Node JS
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, Games como LoL, FIFA, NBA2K, Formula 1, NFL e fazer atividades Físicas
  <br/> :rocket: &nbsp; Linkedin: https://www.linkedin.com/in/marcos-paulo-694960192/
- <br/> 💻: &nbsp; Portfolio: [https://marcosportdev.vercel.app/](https://marcosportdev.vercel.app/)
+ <br/> 💻: &nbsp; Portfolio: [https://marcosportdev.vercel.app/](https://marcospauloportfoliodev.vercel.app/)
